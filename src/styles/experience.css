@@ -1,0 +1,15 @@
+.vertical-timeline-element--education i{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:20px 20px;
+}
+.vertical-timeline-element-content{
+    box-shadow: 2px 0px 5px 2px rgb(10,32,32);
+    font-size: 30px;
+}
+.vertical-timeline-element-content p{
+    font-size: 20px;
+    color: red;
+    font-weight: bold;
+}
